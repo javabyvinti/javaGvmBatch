@@ -1,0 +1,65 @@
+decision making statements
+
+// vowel or consonant
+
+char uservalue = 'a';
+
+
+switch(uservalue)		// if(condition)
+{
+
+	// uservalue == 'a'
+	case 'a':
+	syso("vowel");
+	break;	// terminate
+
+	// uservalue == 'e'
+	
+	case 'e':
+	syso("vowel");
+	break;	// terminate
+
+	case 'i':
+	syso("vowel");
+	break;	// terminate
+
+
+	case 'o':
+	syso("vowel");
+	break;	// terminate
+
+}
+
+loop: 
+--> initialization --> starting point
+--> condition --> ending point
+--> increment/decrement
+
+while syntax:
+
+	int value = 1;	// declare and initialization
+
+	while(value<=10)
+	{
+		syso(value);
+//		value = value + 1;// value+=1;// value++;
+	}
+	// Entry controlled loop
+
+
+
+do-while loop:
+
+	while(){
+	// defination/ working
+	}
+
+	void print(){}
+
+	do{
+		statements
+	}while(condition);
+
+
+
+
