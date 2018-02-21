@@ -1,0 +1,7 @@
+Constructor Questions:
+
+https://www.codesdope.com/practice/java-constructor-overloading/
+
+Inheritance Questions:
+
+https://sites.google.com/site/javaprogramsisc/home/misc/inheritance
