@@ -1,0 +1,9 @@
+1D Array questions:
+
+--> WAP to find the maximum value from array with its index.
+
+--> WAP to find the minimum value from array with its index.
+
+--> WAP to find duplicate values found from array with index.
+
+--> WAP to find duplicate values and remove the duplicate value from array.
